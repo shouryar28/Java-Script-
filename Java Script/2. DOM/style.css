@@ -1,0 +1,30 @@
+/* #heading{
+    color : blueviolet;
+    background: #000;
+    text-decoration: "dotted";
+}
+#heading2{
+    color : blueviolet;
+    background: #000;
+    text-decoration: "dotted";
+} */
+.box{
+    height: 100px;
+    width: 50px;
+    background-color: #BED754 20px 20px 20px ;
+    
+}
+.heading{
+    color :#BED754;
+    background:#E3651D;
+    text-decoration: double;
+}
+
+body{
+    background-color : rgb(188, 122, 249);
+}
+button{
+    background-color: blue;
+    color: white;
+    padding-left : 2cm;
+}

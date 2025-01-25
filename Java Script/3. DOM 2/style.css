@@ -1,0 +1,12 @@
+h1{
+    color: rgb(15, 15, 67);
+    background: #d19d0e;
+}
+body{
+    background-color: rgb(79, 165, 85);
+}
+button{
+    background-color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+}

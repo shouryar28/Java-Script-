@@ -1,0 +1,30 @@
+/*
+           getting elements by their id using #
+*/
+/* 
+#heading1 {
+  background-color: rgb(233, 233, 29);
+  color: black;
+  box-shadow: inset;
+}
+
+#heading2{
+    background-color: aquamarine;
+    color: red;
+    box-shadow: inset;
+}
+
+body{
+    background-color: yellowgreen;
+}
+
+
+ */
+
+ /*         getting element by their class name using .        */
+
+ .heading{
+    background-color: rgba(72, 72, 225, 0.5);
+ }
+
+
